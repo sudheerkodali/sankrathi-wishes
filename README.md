@@ -1,2 +1,5 @@
 # sankrathi-wishes
-festival wishes
+
+**festival wishes**
+![sankrathi-wishies](./makar-sankranti-card.jpg)
+
